@@ -38,4 +38,4 @@ if __name__ == "__main__":
     print(f"Result: {result}")
 
     secret_key = get_secret_key()
-    print(f"Secret Key: {secret_key}")
+    # Found by Code Scan - print(f"Secret Key: {secret_key}")
